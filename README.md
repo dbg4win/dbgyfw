@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **dbgyfw/dbgyfw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi, I'm yfw 👋
+
+- 🔭 I’m now working for security company.
+- 🌱 I’m a security researcher. 
+- 🤔 I am interested in windows kernel、linux kernel and security architecture.
+- ❤️ I’m currently develop xdr/edr product.
+
+
+### My Contributions
+![](https://raw.githubusercontent.com/thinkingthigh/thinkingthigh/main/assets/github-contribution-grid-snake.svg)
+
